@@ -22,6 +22,7 @@
         [0, 0, 0]
     ]
     let color = 1;
+    let result = false;
     function show() {
         let board = document.getElementById("board");
         board.innerHTML = "";
@@ -39,9 +40,13 @@
         }
     }
     function move(x, y) {
+        if(pattern[x][y] || result) {
+            return;
+        }
         pattern[x][y] = color;
         if(check(pattern,color)) {
-            alert(color == 1 ? "❌ is win" : "⭕️ is winner!");
+            alert(color == 1 ? "❌ is winner" : "⭕️ is winner!");
+            result = true;
         }
         color = 3 - color;
         show()

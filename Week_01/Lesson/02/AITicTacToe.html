@@ -22,6 +22,7 @@
         [0, 0, 0]
     ]
     let color = 1;
+    let result = false;
     function show() {
         let board = document.getElementById("board");
         board.innerHTML = "";
@@ -39,15 +40,20 @@
         }
     }
     function userMove(i,j) {
+        if(pattern[i][j] || result) {
+            return
+        }
         pattern[i][j] = color;
         if(check(pattern,color)){
             alert(color == 1 ? "⭕️ is winner" : "❌ is winner")
+            result = true;
         }
         color = 3 - color;
         show();
         computerMove();
     }
     function computerMove() {
+        if(result) return;
         let choice = bestChoice(pattern, color);
         if(choice.point) {
             console.log("choice.point",choice.point,pattern[choice.point[0]][choice.point[1]])
@@ -55,30 +61,31 @@
         }
         if(check(pattern, color)) {
             alert(color == 1 ? "⭕️ is winner" : "❌ is winner")
+            result = true;
         }
         color = 3 - color;
         show();
     }
     function check(pattern,color) {
         for(let i = 0; i < 3; i++){
-            let result = true;
+            let win = true;
             for(let j = 0; j < 3; j++){
                 if(pattern[i][j] !== color){
-                    result = false;
+                    win = false;
                 }
             }
-            if(result){
+            if(win){
                 return true;
             }
         }
         for(let i = 0; i < 3; i++) {
-            let result = true;
+            let win = true;
             for(let j = 0; j < 3; j++){
                 if(pattern[j][i] !== color){
-                    result = false;
+                    win = false;
                 }
             }
-            if(result){
+            if(win){
                 return true;
             }
         }
