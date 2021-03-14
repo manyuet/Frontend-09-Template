@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35a8e7b0-6327-4133-b1f5-4abc35b77214" name="Default Changelist" comment="week02's homework">
+      <change beforePath="$PROJECT_DIR$/Week_02/Lesson/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/Lesson/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/Lesson/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/Lesson/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1osnqUkdN5QYMaoDnfSrdVac9Rj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_02/Lesson" />
+      <recent name="$PROJECT_DIR$/Week_01/Homework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_01/Lesson/02" />
+      <recent name="$PROJECT_DIR$/Week_01/Lesson/01" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a8e7b0-6327-4133-b1f5-4abc35b77214" name="Default Changelist" comment="" />
+      <created>1614084356819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614084356819</updated>
+      <workItem from="1614084358091" duration="3148000" />
+      <workItem from="1614166665159" duration="1706000" />
+      <workItem from="1614259148578" duration="2421000" />
+      <workItem from="1614382239615" duration="2397000" />
+      <workItem from="1614433248966" duration="2443000" />
+      <workItem from="1614488212757" duration="10947000" />
+      <workItem from="1614604365530" duration="4517000" />
+      <workItem from="1614688932355" duration="3962000" />
+      <workItem from="1614775661103" duration="6894000" />
+      <workItem from="1614864009574" duration="3539000" />
+      <workItem from="1615008494458" duration="7796000" />
+      <workItem from="1615075448045" duration="5706000" />
+      <workItem from="1615176873060" duration="305000" />
+      <workItem from="1615207157156" duration="2702000" />
+      <workItem from="1615381641825" duration="2619000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1614084404056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614084404056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week01's homework">
+      <created>1614521214590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614521214590</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week01's homework">
+      <created>1614521305001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614521305001</updated>
+    </task>
+    <task id="LOCAL-00004" summary="week01's homework supplement">
+      <created>1614692055206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614692055206</updated>
+    </task>
+    <task id="LOCAL-00005" summary="week02's homework">
+      <created>1615098918078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615098918078</updated>
+    </task>
+    <task id="LOCAL-00006" summary="week02's homework">
+      <created>1615099420003</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615099420003</updated>
+    </task>
+    <task id="LOCAL-00007" summary="week02's homework">
+      <created>1615099992475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615099992475</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="week01's homework" />
+    <MESSAGE value="week01's homework supplement" />
+    <MESSAGE value="week02's homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="week02's homework" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="921" y="155" key="SettingsEditor" timestamp="1615385710125">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="921" y="155" key="SettingsEditor/0.23.1920.987@0.23.1920.987" timestamp="1615385710125" />
+  </component>
+</project>
