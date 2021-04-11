@@ -22,6 +22,12 @@
 - 正则文法
 
 ### 现代语言的分类
+- 形式语言-用途
+  - 数据描述语言（JSON,HTML,XAML,SQL,CSS）
+  - 编程语言（C,C++,Java,C#,Python,Ruby,Perl,Lisp,T-SQL,Clojure,Haskell,JavaScript）
+- 形式语言-表达方式
+  - 声明式语言（只说明结果）JSON,HTML,XAML,SQL,CSS,Lisp,Clojure,Haskell
+  - 命令型语言（达成结果的每一个步骤）C,C++,Java,C#,Python,Ruby,Perl,JavaScript）
 
 ### JavaScript类型
 - Number
