@@ -15,3 +15,9 @@
 
 ## 计算交叉轴
 ![img](https://tva1.sinaimg.cn/large/008i3skNgy1gqbthb4vktj31ha0mitkb.jpg)
+
+## 渲染| 绘制单个元素
+![img](https://tva1.sinaimg.cn/large/008i3skNgy1gqcjfjndmbj31300h0nbh.jpg)
+
+## 渲染 | 绘制dom树
+![img](https://tva1.sinaimg.cn/large/008i3skNgy1gqcjjz3nzvj31ga0fi7o9.jpg)
