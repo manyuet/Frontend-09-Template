@@ -21,6 +21,7 @@ class Request {
     send(connection) {
         return new Promise((resolve, reject) => {
             const parser = new ResponseParser;
+
             if(connection) {
                 connection.write(this.toString());
             } else {
@@ -151,4 +152,4 @@ void async function() {
     });
     let response = await request.send();
     console.log(response);
-}()
+}();
